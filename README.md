@@ -89,13 +89,13 @@ Breakpoints utilizados:
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/hahn-burger.git
+git clone https://github.com/AlanGabHahn/hahn-burger-lp.git
 ```
 
 2. Acesse a pasta do projeto
 
 ```bash
-cd hahn-burger
+cd hahn-burger-lp
 ```
 
 3. Abra o arquivo:
